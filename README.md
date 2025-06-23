@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="project_moon_cover.png" alt="Project Moon cover" width="600"/>
+</p>
+> *Project Moon* – A narrative action-adventure prototype built in Unreal Engine 5.
+
 # 🌕 Project Moon
 A narrative-driven adventure-RPG prototype built in Unreal Engine 5.
 
